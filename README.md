@@ -45,7 +45,7 @@ This was the final result:
 
 1. In  the  same  project  from  practice  1,  click  on  the  icon ‘Assign PCB footprints to schematic symbols’.  By  doing  so,  you  will  be  able  to  watch  the  footprints associations in a list format. ***NOTE:*** *If a ***‘Confirmation’*** window pops to reassign all the components to a new library format, click ‘No.’*
 
-2. Now it is time to add the corresponding libraries to the Cvpcbprogram.   Download from [here](./modules)  the modules   needed   for   the   project.   Click   on Preferences→Manage Footprint Libraries...and  in this  way  you  will  be  able  to  add  the  modules  from the folder  named  ‘modules.’  Click  on  ‘Project  Specific Libraries...’  tab,  then  click  on  the  button  ‘Browse Libraries...’ and search for the folder  where  you  save the modules. Select all the files and click ‘OK.’Fig.  1 shows the result of the added modules. NOTE:Your KiCad EDA Software must be in english to add the modules.
+2. Now it is time to add the corresponding libraries to the Cvpcbprogram.   Download fromthe modules   needed   for   the   project.   Click   on Preferences→Manage Footprint Libraries...and  in this  way  you  will  be  able  to  add  the  modules  from the folder  named  ‘modules.’  Click  on  ‘Project  Specific Libraries...’  tab,  then  click  on  the  button  ‘Browse Libraries...’ and search for the folder  where  you  save the modules. Select all the files and click ‘OK.’Fig.  1 shows the result of the added modules. NOTE:Your KiCad EDA Software must be in english to add the modules.
 
 3. Once  that  is  done,  you  must  associate  the  list  of components  with  its  respective  footprint using Table  I for  guidance.  Be  sure  to  activate  the  option  ‘Filter footprints  list  by  library’ from  the Cvpcbtoolbar. To associate  the  components  showed  in  the middle  column,  double  click  with  their  corresponding footprint from the right column. ***NOTE:*** *Search  all  the  footprints  in  the*  ***‘user’*** *and * 
 ***‘discrete’*** * added libraries that should be found at the end of the list.*
@@ -69,7 +69,7 @@ menu  of **‘Setup→Design Rules...’**. On   it,   some   final   design cha
 11.Check in the ‘Layers Manager’ window (located at the right  part  of  your  screen) that all  the needed  boxes  are
 checked, as shown:
 
-![Layers manager](./img/layers_manager.png)
+![Layers manager](./layers_manager.png)
 
 11.Check in the ‘Layers Manager’ window (located at the right  part  of  your  screen) that all  the needed  boxes  are checke
 
