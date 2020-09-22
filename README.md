@@ -39,7 +39,7 @@ the KiCad Developers Team.
 We started this practice as left before in the practice #1. We had to change from the schematic to the PCB, in order for this to happen we used mods provided by the proffessor to asign each of the pieces involved, then with all the pieces, we separated and order them then conecting all the paths being carefull no to cross them.
 
 This was the final result:
-![placa2](./img/placa2.png)
+![placa2](./placa2.png)
 
 ### Follow the next 'Project Configuration' Steps
 
@@ -50,7 +50,7 @@ This was the final result:
 3. Once  that  is  done,  you  must  associate  the  list  of components  with  its  respective  footprint using Table  I for  guidance.  Be  sure  to  activate  the  option  ‘Filter footprints  list  by  library’ from  the Cvpcbtoolbar. To associate  the  components  showed  in  the middle  column,  double  click  with  their  corresponding footprint from the right column. ***NOTE:*** *Search  all  the  footprints  in  the*  ***‘user’*** *and * 
 ***‘discrete’*** * added libraries that should be found at the end of the list.*
 
-![Table1](./img/table1.png)
+![Table1](./table1.png)
 
 4. Save   your modifications  by  clicking  **‘Apply,  Save Schematic & Continue,’ and then click ‘OK.’**
 5. After that, you may close the Cvpcband go back to the EESchema (Schematic  Editor.)  Save  your  project  by clicking   on File→Save.   Close   the   editor   of   the Schematic and switch back to the **‘Project Manager.’**
@@ -85,7 +85,7 @@ checked, as shown:
 
 17. Your board must look like:
 
-![Layout](./img/layout.png)
+![Layout](./layout.png)
 
 
 ### Report
@@ -97,10 +97,10 @@ Commit and push the files with extensions .pro and .kicad_pcb created once you c
 
 ### Demonstration
 Screenshot before ordering all the components:
-![placa1](./img/placa1.png)
+![placa1](./placa1.png)
 
 Screenshot at the end of the steps:
-![placa2](./img/placa2.png)
+![placa2](./placa2.png)
 
 ## Conclusion
 
