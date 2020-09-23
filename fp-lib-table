@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name discret)(type Legacy)(uri C:/Users/COREI5/Downloads/modules/discret.mod)(options "")(descr ""))
+  (lib (name user)(type Legacy)(uri C:/Users/COREI5/Downloads/modules/user.mod)(options "")(descr ""))
+)
